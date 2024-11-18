@@ -1,0 +1,469 @@
+Year_Quarter,Birth rate group,Indicator,Group,FertilityRate,Unit,MortalityRate
+2024 Q1,Age-specific Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2024 Q1,Age-specific Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2024 Q1,Age-specific Birth Rates,10-14 years,Non-Hispanic Black,0.3,"per 1,000 population",0.012
+2024 Q1,Age-specific Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2024 Q1,Age-specific Birth Rates,15-19 years,All races and origins,13.2,"per 1,000 population",0.528
+2024 Q1,Age-specific Birth Rates,15-19 years,Hispanic,21.3,"per 1,000 population",0.852
+2024 Q1,Age-specific Birth Rates,15-19 years,Non-Hispanic Black,19.1,"per 1,000 population",0.764
+2024 Q1,Age-specific Birth Rates,15-19 years,Non-Hispanic White,8.5,"per 1,000 population",0.34
+2024 Q1,Age-specific Birth Rates,20-24 years,All races and origins,55.1,"per 1,000 population",2.204
+2024 Q1,Age-specific Birth Rates,20-24 years,Hispanic,78.3,"per 1,000 population",3.132
+2024 Q1,Age-specific Birth Rates,20-24 years,Non-Hispanic Black,65.3,"per 1,000 population",2.612
+2024 Q1,Age-specific Birth Rates,20-24 years,Non-Hispanic White,46,"per 1,000 population",1.84
+2024 Q1,Age-specific Birth Rates,25-29 years,All races and origins,91.1,"per 1,000 population",3.644
+2024 Q1,Age-specific Birth Rates,25-29 years,Hispanic,112.5,"per 1,000 population",4.5
+2024 Q1,Age-specific Birth Rates,25-29 years,Non-Hispanic Black,84.2,"per 1,000 population",3.368
+2024 Q1,Age-specific Birth Rates,25-29 years,Non-Hispanic White,89.2,"per 1,000 population",3.568
+2024 Q1,Age-specific Birth Rates,30-34 years,All races and origins,95.6,"per 1,000 population",3.824
+2024 Q1,Age-specific Birth Rates,30-34 years,Hispanic,102.4,"per 1,000 population",4.096
+2024 Q1,Age-specific Birth Rates,30-34 years,Non-Hispanic Black,76.4,"per 1,000 population",3.056
+2024 Q1,Age-specific Birth Rates,30-34 years,Non-Hispanic White,98.3,"per 1,000 population",3.932
+2024 Q1,Age-specific Birth Rates,35-39 years,All races and origins,55,"per 1,000 population",2.2
+2024 Q1,Age-specific Birth Rates,35-39 years,Hispanic,60.2,"per 1,000 population",2.408
+2024 Q1,Age-specific Birth Rates,35-39 years,Non-Hispanic Black,49.7,"per 1,000 population",1.988
+2024 Q1,Age-specific Birth Rates,35-39 years,Non-Hispanic White,52.6,"per 1,000 population",2.104
+2024 Q1,Age-specific Birth Rates,40-44 years,All races and origins,12.8,"per 1,000 population",0.512
+2024 Q1,Age-specific Birth Rates,40-44 years,Hispanic,15.8,"per 1,000 population",0.632
+2024 Q1,Age-specific Birth Rates,40-44 years,Non-Hispanic Black,14.1,"per 1,000 population",0.564
+2024 Q1,Age-specific Birth Rates,40-44 years,Non-Hispanic White,10.7,"per 1,000 population",0.428
+2024 Q1,Age-specific Birth Rates,45+ years,All races and origins,1.1,"per 1,000 population",0.044
+2024 Q1,Age-specific Birth Rates,45+ years,Hispanic,1.1,"per 1,000 population",0.044
+2024 Q1,Age-specific Birth Rates,45+ years,Non-Hispanic Black,1.5,"per 1,000 population",0.06
+2024 Q1,Age-specific Birth Rates,45+ years,Non-Hispanic White,0.9,"per 1,000 population",0.036
+2024 Q1,General Fertility Rates,15-44 years,All races and origins,54.5,"per 1,000 population",2.18
+2024 Q1,General Fertility Rates,15-44 years,Hispanic,65.3,"per 1,000 population",2.612
+2024 Q1,General Fertility Rates,15-44 years,Non-Hispanic Black,52.9,"per 1,000 population",2.116
+2024 Q1,General Fertility Rates,15-44 years,Non-Hispanic White,51.7,"per 1,000 population",2.068
+2024 Q1,Teen Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2024 Q1,Teen Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2024 Q1,Teen Birth Rates,10-14 years,Non-Hispanic Black,0.3,"per 1,000 population",0.012
+2024 Q1,Teen Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2024 Q1,Teen Birth Rates,15-17 years,All races and origins,5.5,"per 1,000 population",0.22
+2024 Q1,Teen Birth Rates,15-17 years,Hispanic,9.5,"per 1,000 population",0.38
+2024 Q1,Teen Birth Rates,15-17 years,Non-Hispanic Black,8.8,"per 1,000 population",0.352
+2024 Q1,Teen Birth Rates,15-17 years,Non-Hispanic White,2.9,"per 1,000 population",0.116
+2024 Q1,Teen Birth Rates,18-19 years,All races and origins,24.8,"per 1,000 population",0.992
+2024 Q1,Teen Birth Rates,18-19 years,Hispanic,39.8,"per 1,000 population",1.592
+2024 Q1,Teen Birth Rates,18-19 years,Non-Hispanic Black,35.1,"per 1,000 population",1.404
+2024 Q1,Teen Birth Rates,18-19 years,Non-Hispanic White,16.8,"per 1,000 population",0.672
+2024 Q1,Teen Birth Rates,15-19 years,All races and origins,13.2,"per 1,000 population",0.528
+2024 Q1,Teen Birth Rates,15-19 years,Hispanic,21.3,"per 1,000 population",0.852
+2024 Q1,Teen Birth Rates,15-19 years,Non-Hispanic Black,19.1,"per 1,000 population",0.764
+2024 Q1,Teen Birth Rates,15-19 years,Non-Hispanic White,8.5,"per 1,000 population",0.34
+2023 Q4,Age-specific Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2023 Q4,Age-specific Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2023 Q4,Age-specific Birth Rates,10-14 years,Non-Hispanic Black,0.4,"per 1,000 population",0.016
+2023 Q4,Age-specific Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2023 Q4,Age-specific Birth Rates,15-19 years,All races and origins,13.2,"per 1,000 population",0.528
+2023 Q4,Age-specific Birth Rates,15-19 years,Hispanic,21.2,"per 1,000 population",0.848
+2023 Q4,Age-specific Birth Rates,15-19 years,Non-Hispanic Black,19.4,"per 1,000 population",0.776
+2023 Q4,Age-specific Birth Rates,15-19 years,Non-Hispanic White,8.5,"per 1,000 population",0.34
+2023 Q4,Age-specific Birth Rates,20-24 years,All races and origins,55.4,"per 1,000 population",2.216
+2023 Q4,Age-specific Birth Rates,20-24 years,Hispanic,78,"per 1,000 population",3.12
+2023 Q4,Age-specific Birth Rates,20-24 years,Non-Hispanic Black,66.7,"per 1,000 population",2.668
+2023 Q4,Age-specific Birth Rates,20-24 years,Non-Hispanic White,46.3,"per 1,000 population",1.852
+2023 Q4,Age-specific Birth Rates,25-29 years,All races and origins,91,"per 1,000 population",3.64
+2023 Q4,Age-specific Birth Rates,25-29 years,Hispanic,112,"per 1,000 population",4.48
+2023 Q4,Age-specific Birth Rates,25-29 years,Non-Hispanic Black,85.2,"per 1,000 population",3.408
+2023 Q4,Age-specific Birth Rates,25-29 years,Non-Hispanic White,89,"per 1,000 population",3.56
+2023 Q4,Age-specific Birth Rates,30-34 years,All races and origins,95.1,"per 1,000 population",3.804
+2023 Q4,Age-specific Birth Rates,30-34 years,Hispanic,101.7,"per 1,000 population",4.068
+2023 Q4,Age-specific Birth Rates,30-34 years,Non-Hispanic Black,76.9,"per 1,000 population",3.076
+2023 Q4,Age-specific Birth Rates,30-34 years,Non-Hispanic White,97.8,"per 1,000 population",3.912
+2023 Q4,Age-specific Birth Rates,35-39 years,All races and origins,54.7,"per 1,000 population",2.188
+2023 Q4,Age-specific Birth Rates,35-39 years,Hispanic,59.9,"per 1,000 population",2.396
+2023 Q4,Age-specific Birth Rates,35-39 years,Non-Hispanic Black,50,"per 1,000 population",2
+2023 Q4,Age-specific Birth Rates,35-39 years,Non-Hispanic White,52.2,"per 1,000 population",2.088
+2023 Q4,Age-specific Birth Rates,40-44 years,All races and origins,12.6,"per 1,000 population",0.504
+2023 Q4,Age-specific Birth Rates,40-44 years,Hispanic,15.7,"per 1,000 population",0.628
+2023 Q4,Age-specific Birth Rates,40-44 years,Non-Hispanic Black,14,"per 1,000 population",0.56
+2023 Q4,Age-specific Birth Rates,40-44 years,Non-Hispanic White,10.6,"per 1,000 population",0.424
+2023 Q4,Age-specific Birth Rates,45+ years,All races and origins,1.1,"per 1,000 population",0.044
+2023 Q4,Age-specific Birth Rates,45+ years,Hispanic,1.2,"per 1,000 population",0.048
+2023 Q4,Age-specific Birth Rates,45+ years,Non-Hispanic Black,1.5,"per 1,000 population",0.06
+2023 Q4,Age-specific Birth Rates,45+ years,Non-Hispanic White,0.9,"per 1,000 population",0.036
+2023 Q4,General Fertility Rates,15-44 years,All races and origins,54.4,"per 1,000 population",2.176
+2023 Q4,General Fertility Rates,15-44 years,Hispanic,65,"per 1,000 population",2.6
+2023 Q4,General Fertility Rates,15-44 years,Non-Hispanic Black,53.5,"per 1,000 population",2.14
+2023 Q4,General Fertility Rates,15-44 years,Non-Hispanic White,51.6,"per 1,000 population",2.064
+2023 Q4,Teen Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2023 Q4,Teen Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2023 Q4,Teen Birth Rates,10-14 years,Non-Hispanic Black,0.4,"per 1,000 population",0.016
+2023 Q4,Teen Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2023 Q4,Teen Birth Rates,15-17 years,All races and origins,5.6,"per 1,000 population",0.224
+2023 Q4,Teen Birth Rates,15-17 years,Hispanic,9.5,"per 1,000 population",0.38
+2023 Q4,Teen Birth Rates,15-17 years,Non-Hispanic Black,9,"per 1,000 population",0.36
+2023 Q4,Teen Birth Rates,15-17 years,Non-Hispanic White,2.9,"per 1,000 population",0.116
+2023 Q4,Teen Birth Rates,18-19 years,All races and origins,24.9,"per 1,000 population",0.996
+2023 Q4,Teen Birth Rates,18-19 years,Hispanic,39.7,"per 1,000 population",1.588
+2023 Q4,Teen Birth Rates,18-19 years,Non-Hispanic Black,35.8,"per 1,000 population",1.432
+2023 Q4,Teen Birth Rates,18-19 years,Non-Hispanic White,16.8,"per 1,000 population",0.672
+2023 Q4,Teen Birth Rates,15-19 years,All races and origins,13.2,"per 1,000 population",0.528
+2023 Q4,Teen Birth Rates,15-19 years,Hispanic,21.2,"per 1,000 population",0.848
+2023 Q4,Teen Birth Rates,15-19 years,Non-Hispanic Black,19.4,"per 1,000 population",0.776
+2023 Q4,Teen Birth Rates,15-19 years,Non-Hispanic White,8.5,"per 1,000 population",0.34
+2023 Q3,Age-specific Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2023 Q3,Age-specific Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2023 Q3,Age-specific Birth Rates,10-14 years,Non-Hispanic Black,0.4,"per 1,000 population",0.016
+2023 Q3,Age-specific Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2023 Q3,Age-specific Birth Rates,15-19 years,All races and origins,13.4,"per 1,000 population",0.536
+2023 Q3,Age-specific Birth Rates,15-19 years,Hispanic,21.3,"per 1,000 population",0.852
+2023 Q3,Age-specific Birth Rates,15-19 years,Non-Hispanic Black,19.7,"per 1,000 population",0.788
+2023 Q3,Age-specific Birth Rates,15-19 years,Non-Hispanic White,8.7,"per 1,000 population",0.348
+2023 Q3,Age-specific Birth Rates,20-24 years,All races and origins,56,"per 1,000 population",2.24
+2023 Q3,Age-specific Birth Rates,20-24 years,Hispanic,78.3,"per 1,000 population",3.132
+2023 Q3,Age-specific Birth Rates,20-24 years,Non-Hispanic Black,68.1,"per 1,000 population",2.724
+2023 Q3,Age-specific Birth Rates,20-24 years,Non-Hispanic White,46.8,"per 1,000 population",1.872
+2023 Q3,Age-specific Birth Rates,25-29 years,All races and origins,92,"per 1,000 population",3.68
+2023 Q3,Age-specific Birth Rates,25-29 years,Hispanic,112.8,"per 1,000 population",4.512
+2023 Q3,Age-specific Birth Rates,25-29 years,Non-Hispanic Black,87.3,"per 1,000 population",3.492
+2023 Q3,Age-specific Birth Rates,25-29 years,Non-Hispanic White,89.9,"per 1,000 population",3.596
+2023 Q3,Age-specific Birth Rates,30-34 years,All races and origins,95.7,"per 1,000 population",3.828
+2023 Q3,Age-specific Birth Rates,30-34 years,Hispanic,101.9,"per 1,000 population",4.076
+2023 Q3,Age-specific Birth Rates,30-34 years,Non-Hispanic Black,77.7,"per 1,000 population",3.108
+2023 Q3,Age-specific Birth Rates,30-34 years,Non-Hispanic White,98.5,"per 1,000 population",3.94
+2023 Q3,Age-specific Birth Rates,35-39 years,All races and origins,54.9,"per 1,000 population",2.196
+2023 Q3,Age-specific Birth Rates,35-39 years,Hispanic,59.8,"per 1,000 population",2.392
+2023 Q3,Age-specific Birth Rates,35-39 years,Non-Hispanic Black,50.5,"per 1,000 population",2.02
+2023 Q3,Age-specific Birth Rates,35-39 years,Non-Hispanic White,52.4,"per 1,000 population",2.096
+2023 Q3,Age-specific Birth Rates,40-44 years,All races and origins,12.7,"per 1,000 population",0.508
+2023 Q3,Age-specific Birth Rates,40-44 years,Hispanic,15.7,"per 1,000 population",0.628
+2023 Q3,Age-specific Birth Rates,40-44 years,Non-Hispanic Black,14,"per 1,000 population",0.56
+2023 Q3,Age-specific Birth Rates,40-44 years,Non-Hispanic White,10.6,"per 1,000 population",0.424
+2023 Q3,Age-specific Birth Rates,45+ years,All races and origins,1.1,"per 1,000 population",0.044
+2023 Q3,Age-specific Birth Rates,45+ years,Hispanic,1.2,"per 1,000 population",0.048
+2023 Q3,Age-specific Birth Rates,45+ years,Non-Hispanic Black,1.5,"per 1,000 population",0.06
+2023 Q3,Age-specific Birth Rates,45+ years,Non-Hispanic White,0.9,"per 1,000 population",0.036
+2023 Q3,General Fertility Rates,15-44 years,All races and origins,54.9,"per 1,000 population",2.196
+2023 Q3,General Fertility Rates,15-44 years,Hispanic,65.2,"per 1,000 population",2.608
+2023 Q3,General Fertility Rates,15-44 years,Non-Hispanic Black,54.4,"per 1,000 population",2.176
+2023 Q3,General Fertility Rates,15-44 years,Non-Hispanic White,52,"per 1,000 population",2.08
+2023 Q3,Teen Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2023 Q3,Teen Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2023 Q3,Teen Birth Rates,10-14 years,Non-Hispanic Black,0.4,"per 1,000 population",0.016
+2023 Q3,Teen Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2023 Q3,Teen Birth Rates,15-17 years,All races and origins,5.6,"per 1,000 population",0.224
+2023 Q3,Teen Birth Rates,15-17 years,Hispanic,9.5,"per 1,000 population",0.38
+2023 Q3,Teen Birth Rates,15-17 years,Non-Hispanic Black,9,"per 1,000 population",0.36
+2023 Q3,Teen Birth Rates,15-17 years,Non-Hispanic White,3,"per 1,000 population",0.12
+2023 Q3,Teen Birth Rates,18-19 years,All races and origins,25.2,"per 1,000 population",1.008
+2023 Q3,Teen Birth Rates,18-19 years,Hispanic,40,"per 1,000 population",1.6
+2023 Q3,Teen Birth Rates,18-19 years,Non-Hispanic Black,36.5,"per 1,000 population",1.46
+2023 Q3,Teen Birth Rates,18-19 years,Non-Hispanic White,17.2,"per 1,000 population",0.688
+2023 Q3,Teen Birth Rates,15-19 years,All races and origins,13.4,"per 1,000 population",0.536
+2023 Q3,Teen Birth Rates,15-19 years,Hispanic,21.3,"per 1,000 population",0.852
+2023 Q3,Teen Birth Rates,15-19 years,Non-Hispanic Black,19.7,"per 1,000 population",0.788
+2023 Q3,Teen Birth Rates,15-19 years,Non-Hispanic White,8.7,"per 1,000 population",0.348
+2023 Q2,Age-specific Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2023 Q2,Age-specific Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2023 Q2,Age-specific Birth Rates,10-14 years,Non-Hispanic Black,0.4,"per 1,000 population",0.016
+2023 Q2,Age-specific Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2023 Q2,Age-specific Birth Rates,15-19 years,All races and origins,13.6,"per 1,000 population",0.544
+2023 Q2,Age-specific Birth Rates,15-19 years,Hispanic,21.4,"per 1,000 population",0.856
+2023 Q2,Age-specific Birth Rates,15-19 years,Non-Hispanic Black,20.2,"per 1,000 population",0.808
+2023 Q2,Age-specific Birth Rates,15-19 years,Non-Hispanic White,8.9,"per 1,000 population",0.356
+2023 Q2,Age-specific Birth Rates,20-24 years,All races and origins,56.9,"per 1,000 population",2.276
+2023 Q2,Age-specific Birth Rates,20-24 years,Hispanic,78.9,"per 1,000 population",3.156
+2023 Q2,Age-specific Birth Rates,20-24 years,Non-Hispanic Black,69.6,"per 1,000 population",2.784
+2023 Q2,Age-specific Birth Rates,20-24 years,Non-Hispanic White,47.7,"per 1,000 population",1.908
+2023 Q2,Age-specific Birth Rates,25-29 years,All races and origins,93,"per 1,000 population",3.72
+2023 Q2,Age-specific Birth Rates,25-29 years,Hispanic,113.6,"per 1,000 population",4.544
+2023 Q2,Age-specific Birth Rates,25-29 years,Non-Hispanic Black,89.1,"per 1,000 population",3.564
+2023 Q2,Age-specific Birth Rates,25-29 years,Non-Hispanic White,90.9,"per 1,000 population",3.636
+2023 Q2,Age-specific Birth Rates,30-34 years,All races and origins,96.4,"per 1,000 population",3.856
+2023 Q2,Age-specific Birth Rates,30-34 years,Hispanic,102.3,"per 1,000 population",4.092
+2023 Q2,Age-specific Birth Rates,30-34 years,Non-Hispanic Black,78.7,"per 1,000 population",3.148
+2023 Q2,Age-specific Birth Rates,30-34 years,Non-Hispanic White,99.3,"per 1,000 population",3.972
+2023 Q2,Age-specific Birth Rates,35-39 years,All races and origins,55.1,"per 1,000 population",2.204
+2023 Q2,Age-specific Birth Rates,35-39 years,Hispanic,59.7,"per 1,000 population",2.388
+2023 Q2,Age-specific Birth Rates,35-39 years,Non-Hispanic Black,50.6,"per 1,000 population",2.024
+2023 Q2,Age-specific Birth Rates,35-39 years,Non-Hispanic White,52.7,"per 1,000 population",2.108
+2023 Q2,Age-specific Birth Rates,40-44 years,All races and origins,12.7,"per 1,000 population",0.508
+2023 Q2,Age-specific Birth Rates,40-44 years,Hispanic,15.8,"per 1,000 population",0.632
+2023 Q2,Age-specific Birth Rates,40-44 years,Non-Hispanic Black,14,"per 1,000 population",0.56
+2023 Q2,Age-specific Birth Rates,40-44 years,Non-Hispanic White,10.6,"per 1,000 population",0.424
+2023 Q2,Age-specific Birth Rates,45+ years,All races and origins,1.1,"per 1,000 population",0.044
+2023 Q2,Age-specific Birth Rates,45+ years,Hispanic,1.2,"per 1,000 population",0.048
+2023 Q2,Age-specific Birth Rates,45+ years,Non-Hispanic Black,1.4,"per 1,000 population",0.056
+2023 Q2,Age-specific Birth Rates,45+ years,Non-Hispanic White,0.9,"per 1,000 population",0.036
+2023 Q2,General Fertility Rates,15-44 years,All races and origins,55.5,"per 1,000 population",2.22
+2023 Q2,General Fertility Rates,15-44 years,Hispanic,65.6,"per 1,000 population",2.624
+2023 Q2,General Fertility Rates,15-44 years,Non-Hispanic Black,55.3,"per 1,000 population",2.212
+2023 Q2,General Fertility Rates,15-44 years,Non-Hispanic White,52.6,"per 1,000 population",2.104
+2023 Q2,Teen Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2023 Q2,Teen Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2023 Q2,Teen Birth Rates,10-14 years,Non-Hispanic Black,0.4,"per 1,000 population",0.016
+2023 Q2,Teen Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2023 Q2,Teen Birth Rates,15-17 years,All races and origins,5.6,"per 1,000 population",0.224
+2023 Q2,Teen Birth Rates,15-17 years,Hispanic,9.5,"per 1,000 population",0.38
+2023 Q2,Teen Birth Rates,15-17 years,Non-Hispanic Black,9.2,"per 1,000 population",0.368
+2023 Q2,Teen Birth Rates,15-17 years,Non-Hispanic White,3.1,"per 1,000 population",0.124
+2023 Q2,Teen Birth Rates,18-19 years,All races and origins,25.6,"per 1,000 population",1.024
+2023 Q2,Teen Birth Rates,18-19 years,Hispanic,40.2,"per 1,000 population",1.608
+2023 Q2,Teen Birth Rates,18-19 years,Non-Hispanic Black,37.3,"per 1,000 population",1.492
+2023 Q2,Teen Birth Rates,18-19 years,Non-Hispanic White,17.6,"per 1,000 population",0.704
+2023 Q2,Teen Birth Rates,15-19 years,All races and origins,13.6,"per 1,000 population",0.544
+2023 Q2,Teen Birth Rates,15-19 years,Hispanic,21.4,"per 1,000 population",0.856
+2023 Q2,Teen Birth Rates,15-19 years,Non-Hispanic Black,20.2,"per 1,000 population",0.808
+2023 Q2,Teen Birth Rates,15-19 years,Non-Hispanic White,8.9,"per 1,000 population",0.356
+2023 Q1,Age-specific Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2023 Q1,Age-specific Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2023 Q1,Age-specific Birth Rates,10-14 years,Non-Hispanic Black,0.4,"per 1,000 population",0.016
+2023 Q1,Age-specific Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2023 Q1,Age-specific Birth Rates,15-19 years,All races and origins,13.5,"per 1,000 population",0.54
+2023 Q1,Age-specific Birth Rates,15-19 years,Hispanic,21.2,"per 1,000 population",0.848
+2023 Q1,Age-specific Birth Rates,15-19 years,Non-Hispanic Black,20.2,"per 1,000 population",0.808
+2023 Q1,Age-specific Birth Rates,15-19 years,Non-Hispanic White,9,"per 1,000 population",0.36
+2023 Q1,Age-specific Birth Rates,20-24 years,All races and origins,60.2,"per 1,000 population",2.408
+2023 Q1,Age-specific Birth Rates,20-24 years,Hispanic,83.6,"per 1,000 population",3.344
+2023 Q1,Age-specific Birth Rates,20-24 years,Non-Hispanic Black,74.1,"per 1,000 population",2.964
+2023 Q1,Age-specific Birth Rates,20-24 years,Non-Hispanic White,50.3,"per 1,000 population",2.012
+2023 Q1,Age-specific Birth Rates,25-29 years,All races and origins,93.6,"per 1,000 population",3.744
+2023 Q1,Age-specific Birth Rates,25-29 years,Hispanic,114.3,"per 1,000 population",4.572
+2023 Q1,Age-specific Birth Rates,25-29 years,Non-Hispanic Black,90.3,"per 1,000 population",3.612
+2023 Q1,Age-specific Birth Rates,25-29 years,Non-Hispanic White,90.8,"per 1,000 population",3.632
+2023 Q1,Age-specific Birth Rates,30-34 years,All races and origins,96.6,"per 1,000 population",3.864
+2023 Q1,Age-specific Birth Rates,30-34 years,Hispanic,102.8,"per 1,000 population",4.112
+2023 Q1,Age-specific Birth Rates,30-34 years,Non-Hispanic Black,79.2,"per 1,000 population",3.168
+2023 Q1,Age-specific Birth Rates,30-34 years,Non-Hispanic White,98.8,"per 1,000 population",3.952
+2023 Q1,Age-specific Birth Rates,35-39 years,All races and origins,54.9,"per 1,000 population",2.196
+2023 Q1,Age-specific Birth Rates,35-39 years,Hispanic,59.5,"per 1,000 population",2.38
+2023 Q1,Age-specific Birth Rates,35-39 years,Non-Hispanic Black,50.4,"per 1,000 population",2.016
+2023 Q1,Age-specific Birth Rates,35-39 years,Non-Hispanic White,52.2,"per 1,000 population",2.088
+2023 Q1,Age-specific Birth Rates,40-44 years,All races and origins,12.5,"per 1,000 population",0.5
+2023 Q1,Age-specific Birth Rates,40-44 years,Hispanic,15.5,"per 1,000 population",0.62
+2023 Q1,Age-specific Birth Rates,40-44 years,Non-Hispanic Black,13.8,"per 1,000 population",0.552
+2023 Q1,Age-specific Birth Rates,40-44 years,Non-Hispanic White,10.6,"per 1,000 population",0.424
+2023 Q1,Age-specific Birth Rates,45+ years,All races and origins,1.1,"per 1,000 population",0.044
+2023 Q1,Age-specific Birth Rates,45+ years,Hispanic,1.2,"per 1,000 population",0.048
+2023 Q1,Age-specific Birth Rates,45+ years,Non-Hispanic Black,1.4,"per 1,000 population",0.056
+2023 Q1,Age-specific Birth Rates,45+ years,Non-Hispanic White,0.9,"per 1,000 population",0.036
+2023 Q1,General Fertility Rates,15-44 years,All races and origins,56,"per 1,000 population",2.24
+2023 Q1,General Fertility Rates,15-44 years,Hispanic,66.2,"per 1,000 population",2.648
+2023 Q1,General Fertility Rates,15-44 years,Non-Hispanic Black,56.1,"per 1,000 population",2.244
+2023 Q1,General Fertility Rates,15-44 years,Non-Hispanic White,52.8,"per 1,000 population",2.112
+2023 Q1,Teen Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2023 Q1,Teen Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2023 Q1,Teen Birth Rates,10-14 years,Non-Hispanic Black,0.4,"per 1,000 population",0.016
+2023 Q1,Teen Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2023 Q1,Teen Birth Rates,15-17 years,All races and origins,5.6,"per 1,000 population",0.224
+2023 Q1,Teen Birth Rates,15-17 years,Hispanic,9.3,"per 1,000 population",0.372
+2023 Q1,Teen Birth Rates,15-17 years,Non-Hispanic Black,9,"per 1,000 population",0.36
+2023 Q1,Teen Birth Rates,15-17 years,Non-Hispanic White,3.1,"per 1,000 population",0.124
+2023 Q1,Teen Birth Rates,18-19 years,All races and origins,25.6,"per 1,000 population",1.024
+2023 Q1,Teen Birth Rates,18-19 years,Hispanic,40.1,"per 1,000 population",1.604
+2023 Q1,Teen Birth Rates,18-19 years,Non-Hispanic Black,37.5,"per 1,000 population",1.5
+2023 Q1,Teen Birth Rates,18-19 years,Non-Hispanic White,17.6,"per 1,000 population",0.704
+2023 Q1,Teen Birth Rates,15-19 years,All races and origins,13.5,"per 1,000 population",0.54
+2023 Q1,Teen Birth Rates,15-19 years,Hispanic,21.2,"per 1,000 population",0.848
+2023 Q1,Teen Birth Rates,15-19 years,Non-Hispanic Black,20.2,"per 1,000 population",0.808
+2023 Q1,Teen Birth Rates,15-19 years,Non-Hispanic White,9,"per 1,000 population",0.36
+2022 Q4,Age-specific Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2022 Q4,Age-specific Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2022 Q4,Age-specific Birth Rates,10-14 years,Non-Hispanic Black,0.3,"per 1,000 population",0.012
+2022 Q4,Age-specific Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2022 Q4,Age-specific Birth Rates,15-19 years,All races and origins,13.6,"per 1,000 population",0.544
+2022 Q4,Age-specific Birth Rates,15-19 years,Hispanic,21.3,"per 1,000 population",0.852
+2022 Q4,Age-specific Birth Rates,15-19 years,Non-Hispanic Black,20.3,"per 1,000 population",0.812
+2022 Q4,Age-specific Birth Rates,15-19 years,Non-Hispanic White,9.1,"per 1,000 population",0.364
+2022 Q4,Age-specific Birth Rates,20-24 years,All races and origins,57.5,"per 1,000 population",2.3
+2022 Q4,Age-specific Birth Rates,20-24 years,Hispanic,79.2,"per 1,000 population",3.168
+2022 Q4,Age-specific Birth Rates,20-24 years,Non-Hispanic Black,71.1,"per 1,000 population",2.844
+2022 Q4,Age-specific Birth Rates,20-24 years,Non-Hispanic White,48.3,"per 1,000 population",1.932
+2022 Q4,Age-specific Birth Rates,25-29 years,All races and origins,93.5,"per 1,000 population",3.74
+2022 Q4,Age-specific Birth Rates,25-29 years,Hispanic,113.8,"per 1,000 population",4.552
+2022 Q4,Age-specific Birth Rates,25-29 years,Non-Hispanic Black,90.7,"per 1,000 population",3.628
+2022 Q4,Age-specific Birth Rates,25-29 years,Non-Hispanic White,91.1,"per 1,000 population",3.644
+2022 Q4,Age-specific Birth Rates,30-34 years,All races and origins,97.5,"per 1,000 population",3.9
+2022 Q4,Age-specific Birth Rates,30-34 years,Hispanic,103.1,"per 1,000 population",4.124
+2022 Q4,Age-specific Birth Rates,30-34 years,Non-Hispanic Black,79.8,"per 1,000 population",3.192
+2022 Q4,Age-specific Birth Rates,30-34 years,Non-Hispanic White,100.4,"per 1,000 population",4.016
+2022 Q4,Age-specific Birth Rates,35-39 years,All races and origins,55.3,"per 1,000 population",2.212
+2022 Q4,Age-specific Birth Rates,35-39 years,Hispanic,59.5,"per 1,000 population",2.38
+2022 Q4,Age-specific Birth Rates,35-39 years,Non-Hispanic Black,50.4,"per 1,000 population",2.016
+2022 Q4,Age-specific Birth Rates,35-39 years,Non-Hispanic White,53,"per 1,000 population",2.12
+2022 Q4,Age-specific Birth Rates,40-44 years,All races and origins,12.6,"per 1,000 population",0.504
+2022 Q4,Age-specific Birth Rates,40-44 years,Hispanic,15.5,"per 1,000 population",0.62
+2022 Q4,Age-specific Birth Rates,40-44 years,Non-Hispanic Black,13.8,"per 1,000 population",0.552
+2022 Q4,Age-specific Birth Rates,40-44 years,Non-Hispanic White,10.7,"per 1,000 population",0.428
+2022 Q4,Age-specific Birth Rates,45+ years,All races and origins,1.1,"per 1,000 population",0.044
+2022 Q4,Age-specific Birth Rates,45+ years,Hispanic,1.2,"per 1,000 population",0.048
+2022 Q4,Age-specific Birth Rates,45+ years,Non-Hispanic Black,1.4,"per 1,000 population",0.056
+2022 Q4,Age-specific Birth Rates,45+ years,Non-Hispanic White,0.9,"per 1,000 population",0.036
+2022 Q4,General Fertility Rates,15-44 years,All races and origins,56,"per 1,000 population",2.24
+2022 Q4,General Fertility Rates,15-44 years,Hispanic,65.7,"per 1,000 population",2.628
+2022 Q4,General Fertility Rates,15-44 years,Non-Hispanic Black,56.1,"per 1,000 population",2.244
+2022 Q4,General Fertility Rates,15-44 years,Non-Hispanic White,53.1,"per 1,000 population",2.124
+2022 Q4,Teen Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2022 Q4,Teen Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2022 Q4,Teen Birth Rates,10-14 years,Non-Hispanic Black,0.3,"per 1,000 population",0.012
+2022 Q4,Teen Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2022 Q4,Teen Birth Rates,15-17 years,All races and origins,5.6,"per 1,000 population",0.224
+2022 Q4,Teen Birth Rates,15-17 years,Hispanic,9.3,"per 1,000 population",0.372
+2022 Q4,Teen Birth Rates,15-17 years,Non-Hispanic Black,9,"per 1,000 population",0.36
+2022 Q4,Teen Birth Rates,15-17 years,Non-Hispanic White,3.1,"per 1,000 population",0.124
+2022 Q4,Teen Birth Rates,18-19 years,All races and origins,25.8,"per 1,000 population",1.032
+2022 Q4,Teen Birth Rates,18-19 years,Hispanic,40.1,"per 1,000 population",1.604
+2022 Q4,Teen Birth Rates,18-19 years,Non-Hispanic Black,37.7,"per 1,000 population",1.508
+2022 Q4,Teen Birth Rates,18-19 years,Non-Hispanic White,17.9,"per 1,000 population",0.716
+2022 Q4,Teen Birth Rates,15-19 years,All races and origins,13.6,"per 1,000 population",0.544
+2022 Q4,Teen Birth Rates,15-19 years,Hispanic,21.3,"per 1,000 population",0.852
+2022 Q4,Teen Birth Rates,15-19 years,Non-Hispanic Black,20.3,"per 1,000 population",0.812
+2022 Q4,Teen Birth Rates,15-19 years,Non-Hispanic White,9.1,"per 1,000 population",0.364
+2022 Q3,Age-specific Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2022 Q3,Age-specific Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2022 Q3,Age-specific Birth Rates,10-14 years,Non-Hispanic Black,0.3,"per 1,000 population",0.012
+2022 Q3,Age-specific Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2022 Q3,Age-specific Birth Rates,15-19 years,All races and origins,13.6,"per 1,000 population",0.544
+2022 Q3,Age-specific Birth Rates,15-19 years,Hispanic,21.1,"per 1,000 population",0.844
+2022 Q3,Age-specific Birth Rates,15-19 years,Non-Hispanic Black,20.5,"per 1,000 population",0.82
+2022 Q3,Age-specific Birth Rates,15-19 years,Non-Hispanic White,9.1,"per 1,000 population",0.364
+2022 Q3,Age-specific Birth Rates,20-24 years,All races and origins,57.7,"per 1,000 population",2.308
+2022 Q3,Age-specific Birth Rates,20-24 years,Hispanic,78.9,"per 1,000 population",3.156
+2022 Q3,Age-specific Birth Rates,20-24 years,Non-Hispanic Black,72,"per 1,000 population",2.88
+2022 Q3,Age-specific Birth Rates,20-24 years,Non-Hispanic White,48.5,"per 1,000 population",1.94
+2022 Q3,Age-specific Birth Rates,25-29 years,All races and origins,93.6,"per 1,000 population",3.744
+2022 Q3,Age-specific Birth Rates,25-29 years,Hispanic,113.2,"per 1,000 population",4.528
+2022 Q3,Age-specific Birth Rates,25-29 years,Non-Hispanic Black,91.2,"per 1,000 population",3.648
+2022 Q3,Age-specific Birth Rates,25-29 years,Non-Hispanic White,91.2,"per 1,000 population",3.648
+2022 Q3,Age-specific Birth Rates,30-34 years,All races and origins,97.7,"per 1,000 population",3.908
+2022 Q3,Age-specific Birth Rates,30-34 years,Hispanic,102.2,"per 1,000 population",4.088
+2022 Q3,Age-specific Birth Rates,30-34 years,Non-Hispanic Black,80,"per 1,000 population",3.2
+2022 Q3,Age-specific Birth Rates,30-34 years,Non-Hispanic White,100.8,"per 1,000 population",4.032
+2022 Q3,Age-specific Birth Rates,35-39 years,All races and origins,55.3,"per 1,000 population",2.212
+2022 Q3,Age-specific Birth Rates,35-39 years,Hispanic,58.9,"per 1,000 population",2.356
+2022 Q3,Age-specific Birth Rates,35-39 years,Non-Hispanic Black,50.1,"per 1,000 population",2.004
+2022 Q3,Age-specific Birth Rates,35-39 years,Non-Hispanic White,53.3,"per 1,000 population",2.132
+2022 Q3,Age-specific Birth Rates,40-44 years,All races and origins,12.6,"per 1,000 population",0.504
+2022 Q3,Age-specific Birth Rates,40-44 years,Hispanic,15.3,"per 1,000 population",0.612
+2022 Q3,Age-specific Birth Rates,40-44 years,Non-Hispanic Black,13.6,"per 1,000 population",0.544
+2022 Q3,Age-specific Birth Rates,40-44 years,Non-Hispanic White,10.7,"per 1,000 population",0.428
+2022 Q3,Age-specific Birth Rates,45+ years,All races and origins,1.1,"per 1,000 population",0.044
+2022 Q3,Age-specific Birth Rates,45+ years,Hispanic,1.1,"per 1,000 population",0.044
+2022 Q3,Age-specific Birth Rates,45+ years,Non-Hispanic Black,1.4,"per 1,000 population",0.056
+2022 Q3,Age-specific Birth Rates,45+ years,Non-Hispanic White,0.9,"per 1,000 population",0.036
+2022 Q3,General Fertility Rates,15-44 years,All races and origins,56,"per 1,000 population",2.24
+2022 Q3,General Fertility Rates,15-44 years,Hispanic,65.4,"per 1,000 population",2.616
+2022 Q3,General Fertility Rates,15-44 years,Non-Hispanic Black,56.4,"per 1,000 population",2.256
+2022 Q3,General Fertility Rates,15-44 years,Non-Hispanic White,53.3,"per 1,000 population",2.132
+2022 Q3,Teen Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2022 Q3,Teen Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2022 Q3,Teen Birth Rates,10-14 years,Non-Hispanic Black,0.3,"per 1,000 population",0.012
+2022 Q3,Teen Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2022 Q3,Teen Birth Rates,15-17 years,All races and origins,5.5,"per 1,000 population",0.22
+2022 Q3,Teen Birth Rates,15-17 years,Hispanic,9.2,"per 1,000 population",0.368
+2022 Q3,Teen Birth Rates,15-17 years,Non-Hispanic Black,9,"per 1,000 population",0.36
+2022 Q3,Teen Birth Rates,15-17 years,Non-Hispanic White,3.1,"per 1,000 population",0.124
+2022 Q3,Teen Birth Rates,18-19 years,All races and origins,25.8,"per 1,000 population",1.032
+2022 Q3,Teen Birth Rates,18-19 years,Hispanic,39.8,"per 1,000 population",1.592
+2022 Q3,Teen Birth Rates,18-19 years,Non-Hispanic Black,38.1,"per 1,000 population",1.524
+2022 Q3,Teen Birth Rates,18-19 years,Non-Hispanic White,18,"per 1,000 population",0.72
+2022 Q3,Teen Birth Rates,15-19 years,All races and origins,13.6,"per 1,000 population",0.544
+2022 Q3,Teen Birth Rates,15-19 years,Hispanic,21.1,"per 1,000 population",0.844
+2022 Q3,Teen Birth Rates,15-19 years,Non-Hispanic Black,20.5,"per 1,000 population",0.82
+2022 Q3,Teen Birth Rates,15-19 years,Non-Hispanic White,9.1,"per 1,000 population",0.364
+2022 Q2,Age-specific Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2022 Q2,Age-specific Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2022 Q2,Age-specific Birth Rates,10-14 years,Non-Hispanic Black,0.3,"per 1,000 population",0.012
+2022 Q2,Age-specific Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2022 Q2,Age-specific Birth Rates,15-19 years,All races and origins,13.8,"per 1,000 population",0.552
+2022 Q2,Age-specific Birth Rates,15-19 years,Hispanic,21.2,"per 1,000 population",0.848
+2022 Q2,Age-specific Birth Rates,15-19 years,Non-Hispanic Black,20.9,"per 1,000 population",0.836
+2022 Q2,Age-specific Birth Rates,15-19 years,Non-Hispanic White,9.2,"per 1,000 population",0.368
+2022 Q2,Age-specific Birth Rates,20-24 years,All races and origins,58.2,"per 1,000 population",2.328
+2022 Q2,Age-specific Birth Rates,20-24 years,Hispanic,78.9,"per 1,000 population",3.156
+2022 Q2,Age-specific Birth Rates,20-24 years,Non-Hispanic Black,73.7,"per 1,000 population",2.948
+2022 Q2,Age-specific Birth Rates,20-24 years,Non-Hispanic White,48.9,"per 1,000 population",1.956
+2022 Q2,Age-specific Birth Rates,25-29 years,All races and origins,93.8,"per 1,000 population",3.752
+2022 Q2,Age-specific Birth Rates,25-29 years,Hispanic,112.3,"per 1,000 population",4.492
+2022 Q2,Age-specific Birth Rates,25-29 years,Non-Hispanic Black,92.2,"per 1,000 population",3.688
+2022 Q2,Age-specific Birth Rates,25-29 years,Non-Hispanic White,91.6,"per 1,000 population",3.664
+2022 Q2,Age-specific Birth Rates,30-34 years,All races and origins,98.5,"per 1,000 population",3.94
+2022 Q2,Age-specific Birth Rates,30-34 years,Hispanic,102.1,"per 1,000 population",4.084
+2022 Q2,Age-specific Birth Rates,30-34 years,Non-Hispanic Black,80.7,"per 1,000 population",3.228
+2022 Q2,Age-specific Birth Rates,30-34 years,Non-Hispanic White,102,"per 1,000 population",4.08
+2022 Q2,Age-specific Birth Rates,35-39 years,All races and origins,55.3,"per 1,000 population",2.212
+2022 Q2,Age-specific Birth Rates,35-39 years,Hispanic,58.1,"per 1,000 population",2.324
+2022 Q2,Age-specific Birth Rates,35-39 years,Non-Hispanic Black,50,"per 1,000 population",2
+2022 Q2,Age-specific Birth Rates,35-39 years,Non-Hispanic White,53.7,"per 1,000 population",2.148
+2022 Q2,Age-specific Birth Rates,40-44 years,All races and origins,12.5,"per 1,000 population",0.5
+2022 Q2,Age-specific Birth Rates,40-44 years,Hispanic,15.1,"per 1,000 population",0.604
+2022 Q2,Age-specific Birth Rates,40-44 years,Non-Hispanic Black,13.5,"per 1,000 population",0.54
+2022 Q2,Age-specific Birth Rates,40-44 years,Non-Hispanic White,10.8,"per 1,000 population",0.432
+2022 Q2,Age-specific Birth Rates,45+ years,All races and origins,1,"per 1,000 population",0.04
+2022 Q2,Age-specific Birth Rates,45+ years,Hispanic,1.1,"per 1,000 population",0.044
+2022 Q2,Age-specific Birth Rates,45+ years,Non-Hispanic Black,1.3,"per 1,000 population",0.052
+2022 Q2,Age-specific Birth Rates,45+ years,Non-Hispanic White,0.9,"per 1,000 population",0.036
+2022 Q2,General Fertility Rates,15-44 years,All races and origins,56.3,"per 1,000 population",2.252
+2022 Q2,General Fertility Rates,15-44 years,Hispanic,65,"per 1,000 population",2.6
+2022 Q2,General Fertility Rates,15-44 years,Non-Hispanic Black,57,"per 1,000 population",2.28
+2022 Q2,General Fertility Rates,15-44 years,Non-Hispanic White,53.8,"per 1,000 population",2.152
+2022 Q2,Teen Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2022 Q2,Teen Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2022 Q2,Teen Birth Rates,10-14 years,Non-Hispanic Black,0.3,"per 1,000 population",0.012
+2022 Q2,Teen Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2022 Q2,Teen Birth Rates,15-17 years,All races and origins,5.6,"per 1,000 population",0.224
+2022 Q2,Teen Birth Rates,15-17 years,Hispanic,9.3,"per 1,000 population",0.372
+2022 Q2,Teen Birth Rates,15-17 years,Non-Hispanic Black,9.1,"per 1,000 population",0.364
+2022 Q2,Teen Birth Rates,15-17 years,Non-Hispanic White,3.1,"per 1,000 population",0.124
+2022 Q2,Teen Birth Rates,18-19 years,All races and origins,26,"per 1,000 population",1.04
+2022 Q2,Teen Birth Rates,18-19 years,Hispanic,39.6,"per 1,000 population",1.584
+2022 Q2,Teen Birth Rates,18-19 years,Non-Hispanic Black,38.8,"per 1,000 population",1.552
+2022 Q2,Teen Birth Rates,18-19 years,Non-Hispanic White,18.1,"per 1,000 population",0.724
+2022 Q2,Teen Birth Rates,15-19 years,All races and origins,13.8,"per 1,000 population",0.552
+2022 Q2,Teen Birth Rates,15-19 years,Hispanic,21.2,"per 1,000 population",0.848
+2022 Q2,Teen Birth Rates,15-19 years,Non-Hispanic Black,20.9,"per 1,000 population",0.836
+2022 Q2,Teen Birth Rates,15-19 years,Non-Hispanic White,9.2,"per 1,000 population",0.368
+2022 Q1,Age-specific Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2022 Q1,Age-specific Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2022 Q1,Age-specific Birth Rates,10-14 years,Non-Hispanic Black,0.4,"per 1,000 population",0.016
+2022 Q1,Age-specific Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2022 Q1,Age-specific Birth Rates,15-19 years,All races and origins,14.3,"per 1,000 population",0.572
+2022 Q1,Age-specific Birth Rates,15-19 years,Hispanic,22,"per 1,000 population",0.88
+2022 Q1,Age-specific Birth Rates,15-19 years,Non-Hispanic Black,22.2,"per 1,000 population",0.888
+2022 Q1,Age-specific Birth Rates,15-19 years,Non-Hispanic White,9.6,"per 1,000 population",0.384
+2022 Q1,Age-specific Birth Rates,20-24 years,All races and origins,61.8,"per 1,000 population",2.472
+2022 Q1,Age-specific Birth Rates,20-24 years,Hispanic,83.7,"per 1,000 population",3.348
+2022 Q1,Age-specific Birth Rates,20-24 years,Non-Hispanic Black,79,"per 1,000 population",3.16
+2022 Q1,Age-specific Birth Rates,20-24 years,Non-Hispanic White,51.8,"per 1,000 population",2.072
+2022 Q1,Age-specific Birth Rates,25-29 years,All races and origins,93.1,"per 1,000 population",3.724
+2022 Q1,Age-specific Birth Rates,25-29 years,Hispanic,110.5,"per 1,000 population",4.42
+2022 Q1,Age-specific Birth Rates,25-29 years,Non-Hispanic Black,91.7,"per 1,000 population",3.668
+2022 Q1,Age-specific Birth Rates,25-29 years,Non-Hispanic White,91,"per 1,000 population",3.64
+2022 Q1,Age-specific Birth Rates,30-34 years,All races and origins,98.1,"per 1,000 population",3.924
+2022 Q1,Age-specific Birth Rates,30-34 years,Hispanic,100.2,"per 1,000 population",4.008
+2022 Q1,Age-specific Birth Rates,30-34 years,Non-Hispanic Black,80.2,"per 1,000 population",3.208
+2022 Q1,Age-specific Birth Rates,30-34 years,Non-Hispanic White,102,"per 1,000 population",4.08
+2022 Q1,Age-specific Birth Rates,35-39 years,All races and origins,55.3,"per 1,000 population",2.212
+2022 Q1,Age-specific Birth Rates,35-39 years,Hispanic,57.5,"per 1,000 population",2.3
+2022 Q1,Age-specific Birth Rates,35-39 years,Non-Hispanic Black,49.8,"per 1,000 population",1.992
+2022 Q1,Age-specific Birth Rates,35-39 years,Non-Hispanic White,53.9,"per 1,000 population",2.156
+2022 Q1,Age-specific Birth Rates,40-44 years,All races and origins,12.5,"per 1,000 population",0.5
+2022 Q1,Age-specific Birth Rates,40-44 years,Hispanic,15.1,"per 1,000 population",0.604
+2022 Q1,Age-specific Birth Rates,40-44 years,Non-Hispanic Black,13.4,"per 1,000 population",0.536
+2022 Q1,Age-specific Birth Rates,40-44 years,Non-Hispanic White,10.8,"per 1,000 population",0.432
+2022 Q1,Age-specific Birth Rates,45+ years,All races and origins,1,"per 1,000 population",0.04
+2022 Q1,Age-specific Birth Rates,45+ years,Hispanic,1.1,"per 1,000 population",0.044
+2022 Q1,Age-specific Birth Rates,45+ years,Non-Hispanic Black,1.3,"per 1,000 population",0.052
+2022 Q1,Age-specific Birth Rates,45+ years,Non-Hispanic White,0.9,"per 1,000 population",0.036
+2022 Q1,General Fertility Rates,15-44 years,All races and origins,57.2,"per 1,000 population",2.288
+2022 Q1,General Fertility Rates,15-44 years,Hispanic,65.4,"per 1,000 population",2.616
+2022 Q1,General Fertility Rates,15-44 years,Non-Hispanic Black,58.1,"per 1,000 population",2.324
+2022 Q1,General Fertility Rates,15-44 years,Non-Hispanic White,54.7,"per 1,000 population",2.188
+2022 Q1,Teen Birth Rates,10-14 years,All races and origins,0.2,"per 1,000 population",0.008
+2022 Q1,Teen Birth Rates,10-14 years,Hispanic,0.3,"per 1,000 population",0.012
+2022 Q1,Teen Birth Rates,10-14 years,Non-Hispanic Black,0.4,"per 1,000 population",0.016
+2022 Q1,Teen Birth Rates,10-14 years,Non-Hispanic White,0.1,"per 1,000 population",0.004
+2022 Q1,Teen Birth Rates,15-17 years,All races and origins,5.8,"per 1,000 population",0.232
+2022 Q1,Teen Birth Rates,15-17 years,Hispanic,9.7,"per 1,000 population",0.388
+2022 Q1,Teen Birth Rates,15-17 years,Non-Hispanic Black,9.6,"per 1,000 population",0.384
+2022 Q1,Teen Birth Rates,15-17 years,Non-Hispanic White,3.3,"per 1,000 population",0.132
+2022 Q1,Teen Birth Rates,18-19 years,All races and origins,27.2,"per 1,000 population",1.088
+2022 Q1,Teen Birth Rates,18-19 years,Hispanic,41.1,"per 1,000 population",1.644
+2022 Q1,Teen Birth Rates,18-19 years,Non-Hispanic Black,41,"per 1,000 population",1.64
+2022 Q1,Teen Birth Rates,18-19 years,Non-Hispanic White,19,"per 1,000 population",0.76
+2022 Q1,Teen Birth Rates,15-19 years,All races and origins,14.3,"per 1,000 population",0.572
+2022 Q1,Teen Birth Rates,15-19 years,Hispanic,22,"per 1,000 population",0.88
+2022 Q1,Teen Birth Rates,15-19 years,Non-Hispanic Black,22.2,"per 1,000 population",0.888
+2022 Q1,Teen Birth Rates,15-19 years,Non-Hispanic White,9.6,"per 1,000 population",0.384

@@ -1,0 +1,149 @@
+---
+title: "Assignment 6 Regression"
+author: "Sanket"
+date: "`r Sys.Date()`"
+output: html_document
+---
+1) Find an independent variable to predict your time-serie
+In this analysis, we’re predicting the MortalityRate (the rate at which deaths occur).
+To do that, we’ve chosen FertilityRate (birth rate) as our independent variable. 
+This choice makes sense because fertility trends often impact mortality patterns, potentially through socio-economic factors or healthcare resource allocation.
+
+```{r}
+
+options(repos = c(CRAN = "https://cloud.r-project.org"))
+
+#install.packages
+library(readxl)
+library(knitr)
+library(TTR)
+library(dplyr)
+library(ggplot2)
+library(forecast)
+library(tidyverse)
+
+# Load the Excel file
+data  <- read.csv("C:/Users/Sanket Khamkar/Downloads/Data Dictionary_Sanket.csv")
+names(data)
+knitr::kable(data)
+head(data)
+
+# Function to convert 'Year_Quarter' to start date for each quarter
+convert_quarter_to_date <- function(quarter) {
+  if (is.na(quarter)) {
+    return(NA)  # Return NA if quarter is missing
+  }
+  year <- as.numeric(substr(quarter, 1, 4))
+  q <- substr(quarter, 6, 7)
+  
+  if (q == "Q1") {
+    return(as.Date(paste0(year, "-01-01")))
+  } else if (q == "Q2") {
+    return(as.Date(paste0(year, "-04-01")))
+  } else if (q == "Q3") {
+    return(as.Date(paste0(year, "-07-01")))
+  } else if (q == "Q4") {
+    return(as.Date(paste0(year, "-10-01")))
+  } else {
+    return(NA)  # Return NA if the quarter is not in a recognized format
+  }
+}
+
+# Apply the conversion to the 'Year Quarter' column
+data$Date <- sapply(data$`Year_Quarter`, convert_quarter_to_date)
+
+# Convert the 'Rate' column to numeric and clean up the data
+data$FertilityRate <- as.numeric(data$FertilityRate)
+data <- data[!is.na(data$Date) & !is.na(data$FertilityRate), ]
+data$MortalityRate <- as.numeric(data$MortalityRate)
+data <- data[!is.na(data$Date) & !is.na(data$MortalityRate), ]
+# Ensure Date column is a factor (or convert as needed)
+data$Date <- as.factor(data$Date)
+```
+2) Perform regression
+```{r}
+
+# Create a time series object with quarterly frequency (4 quarters per year)
+ts_data <- ts(data$FertilityRate, start=c(2022, 1), frequency=4)
+plot(ts_data)
+acf(ts_data)
+str(data$FertilityRate)
+# Plot the time series
+
+# Pairwise plots to see relationships
+plot(data[,-1])  # Remove non-numeric columns, if necessary
+# Select only numeric columns for the pairs plot
+numeric_data <- data[sapply(data, is.numeric)]
+
+
+str(numeric_data)
+
+# Plot pairs only if there are at least two numeric columns
+if (ncol(numeric_data) > 1) {
+    pairs(numeric_data)
+} else {
+    print("Not enough numeric columns for pairwise plot")
+}
+
+# Summary and correlation
+summary(data)
+cor(numeric_data)
+
+# Histograms and Scatter Plots
+hist(data$MortalityRate, main="Histogram of Mortality Rate", xlab="Mortality Rate")
+plot(MortalityRate ~ FertilityRate, data=data)
+plot(jitter(MortalityRate) ~ jitter(FertilityRate), data=data)
+
+# Fit linear regression model
+fit <- lm(MortalityRate ~ FertilityRate, data=data)
+print(fit)
+```
+3) Perform Model Acceptance Steps and show the interpretation of the model output
+
+```{r}
+# Diagnostic plots for the model
+plot(fit)
+summary(fit)
+```
+When we fit the model, we get two key numbers: the intercept and the slope.
+
+Intercept: This number gives us the base or starting level of mortality when the fertility rate is zero. Although a zero fertility rate is unlikely in real life, the intercept serves as a baseline for our model. For instance, if the intercept is around 0.2, it suggests that, in a theoretical scenario with no new births, the mortality rate would hover around 0.2.
+
+Slope for FertilityRate: This value tells us how much the mortality rate is expected to change for each one-unit increase in the fertility rate. For example, if the slope is 0.005, then as fertility rate increases by one unit, the mortality rate is predicted to increase by 0.005 as well. This suggests a positive relationship: as more people are born, the mortality rate also tends to increase, albeit slightly.
+
+R-squared and Adjusted R-squared values add more insights:
+
+R-squared shows how well fertility rate explains the variation in mortality rate. For instance, if R-squared is 85%, then 85% of the differences in mortality rate can be explained by the fertility rate alone. That’s a strong link, suggesting fertility rate is a solid predictor of mortality rate.
+Adjusted R-squared gives a more accurate measure by accounting for the number of predictors. If the adjusted R-squared is close to the regular R-squared, it’s a good sign that our model fits well without overfitting.
+
+
+```{r}
+anova(fit)
+```
+Lastly, the ANOVA output confirms the significance of the fertility rate as a predictor. If the p-value is very low (like < 2.2e-16), it means that fertility rate has a statistically significant relationship with mortality rate. This high confidence level suggests a reliable association between the two.
+
+
+4) Perform Residual Analysis and explain the insights
+```{r}
+# Residual analysis
+res <- residuals(fit)
+plot(jitter(res) ~ jitter(data$FertilityRate), main="Residuals vs Fertility Rate")
+abline(h=0, col="red")
+hist(res, main = "Residuals of the Model", xlab = "Residuals")
+
+# Predicted value for the first data point
+fitted(fit)[1]
+```
+To explain insights at the residuals, we will see differences between actual mortality rates and what our model predicted.
+
+Residuals vs. Fitted Values Plot: Here, we’re looking for a random scatter of points around zero. If we see that randomness, it means our model is appropriate. But if we spot patterns, it might mean our model is missing something important.
+
+Histogram of Residuals: This histogram shows the spread of prediction errors. Ideally, it looks like a bell curve centered at zero, which would indicate that most of our predictions are close to the actual values. If it’s skewed or off-center, it could mean our model is biased or not capturing some factors correctly.
+
+Q-Q Plot: This plot checks if the residuals follow a normal distribution. If the points align closely with a straight line, it confirms that our errors are distributed as expected, reinforcing the model’s reliability. If not, it might hint at some model issues or the need for additional predictors.
+
+Summary:
+If the residuals look random and normally distributed, it shows that fertility rate is a good predictor for mortality rate in our data.
+If we see patterns in residuals or deviations from normality, it might be worth revisiting the model—possibly by adding more factors, transforming some data, or even trying a different type of model to capture the relationship more accurately.
+
+
